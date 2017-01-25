@@ -4,15 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-/**
- * <b> CS 180 - Project 4 - Chat Server Test Samples </b>
- * <p>
- *
- * @author (Your Name) <(YourEmail@purdue.edu)>
- * @version (Today's Date)
- * @lab (Your Lab Section)
- */
-public class Project4Test {
+public class Test {
 
     @Before
     public void setUp() {
